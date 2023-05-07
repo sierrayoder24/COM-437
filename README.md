@@ -8,3 +8,5 @@ The mobile app is a social media platform/wiki page and data map for boaters in 
 
 ## How to use the application
 I've used Android Studio to develop this application. Downloading the files and running them in Android Studio will sucessfully run the application. 
+To login to the app the username is "user" and password is "1234"
+Code is located under "master"
