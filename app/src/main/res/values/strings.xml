@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Login Page - Ahoy</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_sign_up_now">Don\'t have an account? Sign up now!</string>
+    <string name="username">Username</string>
+    <string name="todo">TODO</string>
+    <string name="password">Password</string>
+    <string name="login1">Login</string>
+    <string name="hello_world">hello world</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="messages">Messages</string>
+    <string name="messages_page">messages page</string>
+    <string name="wiki_page" />
+    <string name="ahoy_user">Ahoy, user!</string>
+</resources>
